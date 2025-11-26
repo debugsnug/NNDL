@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture</folder>
+	<filename>1604480708502.jpg</filename>
+	<path>E:\data_camera_radardata_IMU_RDM\6\picture\1604480708502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>565</ymin>
+			<xmax>471</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
